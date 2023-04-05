@@ -34,3 +34,15 @@ h1{
     cursor: pointer;
     margin-right: 15px;
 }
+article h3{
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+article p{
+    margin-left: 30px;
+    font-style: italic;
+}
